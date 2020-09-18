@@ -2,7 +2,7 @@
 
  ![Platform](https://img.shields.io/badge/Platform-iOS%2C%20macOS-lightgray)  ![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-green)  ![License](https://img.shields.io/badge/License-MIT-green) 
 
-A simple networking Swift pacage for iOS & macOS.
+A simple networking Swift package for iOS & macOS.
 
 ------
 
